@@ -25,4 +25,4 @@ _In your cloned local repository you should find the following directories, in a
 
 _If you experience any issues, have any questions, ideas, or concerns, please contact me at ashe@goldentongue.com._
 
-Copyright (c) _May 26, 2022_ _Ashe Urban_
+Copyright (c) _May 24, 2022_ _Ashe Urban_
