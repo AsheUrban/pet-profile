@@ -12,7 +12,7 @@ _This is a very basic landing page created to showcase our new skills in coding!
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
 
-_In your cloned local repository you should find the following directories, in addition to this README.md: index.html.
+_In your cloned local repository you should find the following directories, in addition to this README.md: index.html._
 
 ## Known Bugs
 
