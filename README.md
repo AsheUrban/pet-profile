@@ -8,6 +8,8 @@
 ## Description
 _This is a very basic landing page created to showcase our new skills in coding! By creating a page for each of my two dogs, we were able to start getting a handle on the basics of html._
 
+_Link to assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-block-elements_
+
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
