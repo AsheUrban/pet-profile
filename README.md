@@ -16,9 +16,9 @@ _In your cloned local repository you should find the following directories, in a
 
 ## Known Bugs
 
-*_No links included._
-*_IMG spacing and formatting issues_
-*_A css directory has been created, but no styles have been added._
+* _No links included._
+* _IMG spacing and formatting issues_
+* _A css directory has been created, but no styles have been added._
 
 ## License
 * MIT
