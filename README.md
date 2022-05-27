@@ -1,6 +1,6 @@
 # _pet-profile_
 ####  By _Ashe Urban_& Joe Jack
-#### _Working from the prompt to create a pet profile, we practiced using HTML!_
+#### _Working from the prompt to create a pet profile, we practiced using HTML block elements!_
 
 ## Technologies Used
 * _HTML_
